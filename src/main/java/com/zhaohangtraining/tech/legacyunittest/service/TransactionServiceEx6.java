@@ -1,7 +1,7 @@
 package com.zhaohangtraining.tech.legacyunittest.service;
 
-import ex.configuration.DryConfiguration;
-import ex.util.TransactionManager;
+import com.zhaohangtraining.tech.legacyunittest.configuration.DryConfiguration;
+import com.zhaohangtraining.tech.legacyunittest.util.TransactionManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

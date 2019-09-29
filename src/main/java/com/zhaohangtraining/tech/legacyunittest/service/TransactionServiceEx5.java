@@ -1,11 +1,11 @@
 package com.zhaohangtraining.tech.legacyunittest.service;
 
-import ex.configuration.AppConfig;
-import ex.configuration.AppConfiguration;
-import ex.configuration.DryConfiguration;
-import ex.infrastructure.ModelReader;
-import ex.infrastructure.XMLStore;
-import ex.util.TransactionManager;
+import com.zhaohangtraining.tech.legacyunittest.configuration.AppConfig;
+import com.zhaohangtraining.tech.legacyunittest.configuration.AppConfiguration;
+import com.zhaohangtraining.tech.legacyunittest.configuration.DryConfiguration;
+import com.zhaohangtraining.tech.legacyunittest.infrastructure.ModelReader;
+import com.zhaohangtraining.tech.legacyunittest.infrastructure.XMLStore;
+import com.zhaohangtraining.tech.legacyunittest.util.TransactionManager;
 
 public class TransactionServiceEx5 {
 

@@ -1,8 +1,8 @@
 package com.zhaohangtraining.tech.legacyunittest.service;
 
-import ex.domain.Employee;
-import ex.infrastructure.PayrollDatabase;
-import ex.infrastructure.TransactionLog;
+import com.zhaohangtraining.tech.legacyunittest.domain.Employee;
+import com.zhaohangtraining.tech.legacyunittest.infrastructure.PayrollDatabase;
+import com.zhaohangtraining.tech.legacyunittest.infrastructure.TransactionLog;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
